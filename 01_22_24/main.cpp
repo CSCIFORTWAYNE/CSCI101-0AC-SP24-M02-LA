@@ -1,3 +1,4 @@
+/*Lecture activity 1/22/2024 Add comments describing each line of code in the main that isn't in a comment*/
 #include <iostream>
 #include <string>
 #include <cmath>
